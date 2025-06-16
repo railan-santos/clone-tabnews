@@ -1,9 +1,5 @@
 function Home(){
-<<<<<<< HEAD
-    return <h1>1</h1>
-=======
-    return <h1>Olá, mundo</h1>
->>>>>>> 230d996 (adiciona pagina inicial)
+    return <h1>Hello, World</h1>
 }
 
 export default Home;
